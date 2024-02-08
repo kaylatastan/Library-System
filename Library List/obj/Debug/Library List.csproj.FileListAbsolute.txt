@@ -1,0 +1,22 @@
+C:\Users\kayla\source\repos\Library List\obj\Debug\Library List.csproj.AssemblyReference.cache
+C:\Users\kayla\source\repos\Library List\obj\Debug\Library List.csproj.SuggestedBindingRedirects.cache
+C:\Users\kayla\source\repos\Library List\obj\Debug\Library_List.Form1.resources
+C:\Users\kayla\source\repos\Library List\obj\Debug\Library_List.Properties.Resources.resources
+C:\Users\kayla\source\repos\Library List\obj\Debug\Library List.csproj.GenerateResource.cache
+C:\Users\kayla\source\repos\Library List\obj\Debug\Library List.csproj.CoreCompileInputs.cache
+C:\Users\kayla\source\repos\Library List\bin\Debug\Library List.exe.config
+C:\Users\kayla\source\repos\Library List\bin\Debug\Library List.exe
+C:\Users\kayla\source\repos\Library List\bin\Debug\Library List.pdb
+C:\Users\kayla\source\repos\Library List\obj\Debug\Library List.exe
+C:\Users\kayla\source\repos\Library List\obj\Debug\Library List.pdb
+C:\Users\kayla\source\repos\Library List\obj\Debug\Library_List.Form2.resources
+C:\Users\kayla\source\repos\Library List\obj\Debug\Library_List.Form3.resources
+C:\Users\kayla\source\repos\Library List\bin\Debug\EntityFramework.dll
+C:\Users\kayla\source\repos\Library List\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\kayla\source\repos\Library List\bin\Debug\System.Data.SQLite.dll
+C:\Users\kayla\source\repos\Library List\bin\Debug\System.Data.SQLite.EF6.dll
+C:\Users\kayla\source\repos\Library List\bin\Debug\System.Data.SQLite.Linq.dll
+C:\Users\kayla\source\repos\Library List\bin\Debug\EntityFramework.xml
+C:\Users\kayla\source\repos\Library List\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\kayla\source\repos\Library List\bin\Debug\System.Data.SQLite.xml
+C:\Users\kayla\source\repos\Library List\obj\Debug\Library List.csproj.CopyComplete
